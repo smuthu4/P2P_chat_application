@@ -12,7 +12,7 @@ You may get a 'command not found' error in Windows, which means python is not in
 
 Acknowledgements
 ----------------
-* Prof A. Prakash, for the project idea and concepts of Computer Networks
+* Prof Hulya Seferoglu, for the project idea and concepts of Computer Networks
 * The wonderful community over at http://stackoverflow.com, for helping get past all bottlenecks
 * The very helpful documentation of Tkinter at http://effbot.org/tkinterbook/
 
